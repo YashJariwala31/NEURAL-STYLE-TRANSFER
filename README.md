@@ -10,8 +10,6 @@
 
 ---
 
-# 🎨 Neural Style Transfer
-
 **Neural Style Transfer** is a deep learning technique that merges the *content* of one image with the *style* of another, creating a new, aesthetically stylized image. This project uses TensorFlow and a pre-trained VGG19 network to perform style transfer directly on the user's machine without requiring a complex interface or GPU acceleration.
 
 ---
