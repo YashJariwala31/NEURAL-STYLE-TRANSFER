@@ -60,4 +60,6 @@ The project demonstrates how to blend the artistic style of one image (such as a
 
 ---
 
+## Input
+
 ## Output
