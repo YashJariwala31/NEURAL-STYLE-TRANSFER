@@ -2,10 +2,15 @@
 # NEURAL STYLE TRANSFER
 
 *COMPANY*: CODTECH IT SOLUTIONS PVT.LTD  
+
 *NAME*: Jariwala Yash J.  
+
 *INTERN ID*: CT04DG2943  
+
 *DOMAIN*: Artificial Intelligence  
+
 *DURATION*: 4 WEEKS  
+
 *MENTOR*: NEELA SANTHOSH  
 
 ---
