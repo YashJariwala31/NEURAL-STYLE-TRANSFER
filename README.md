@@ -62,4 +62,8 @@ The project demonstrates how to blend the artistic style of one image (such as a
 
 ## Input
 
+![Image](https://github.com/user-attachments/assets/65664fe0-9e5b-422e-8b28-683650fbdbfb)
+
+![Image](https://github.com/user-attachments/assets/032f307c-2280-488c-8676-d37c5586bfe1)
+
 ## Output
